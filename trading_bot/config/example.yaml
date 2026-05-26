@@ -1,0 +1,6 @@
+universe: [SPY, QQQ, IWM, XLK, XLF, XLE, TLT]
+benchmark: SPY
+use_synthetic_data: true
+top_n: 5
+initial_cash: 100000
+output_dir: outputs
